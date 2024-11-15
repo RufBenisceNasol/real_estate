@@ -60,6 +60,6 @@ public class Property {
 
     @Override
     public String toString() {
-        return "ID: " + id + ", Type: " + type + ", Location: " + location + ", Availability: " + availability + ", Price: " + price;
+        return "ID: " + id + ", Type: " + type + ", Location: " + location + ", Availability: " + availability + ", Price: ₱" + price;
     }
 }
